@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MortgageCalculator</string>
+    <string name="more_info_hyperlink"><![CDATA[Need more info?See our mortgage guide and calculators>]]></string>
+    <string name="nationwide_mortgage_information">These results are for  repayment mortgage and are only intended as a guide.Make sure you obtain accurate figures from your lender before committing to any mortgage.Your home may be repossessed if you do not keep up repayments on the mortgage.\nPlanmove receives a fixed monthly fee from Nationwide for introductions made via the Planmove platforms.It\'s up to you if you choose Nationwide or a different lender to suit your mortgage needs and circumstances.</string>
+    <string name="deposit_information">Most lenders would expect a minimum deposit of 10%</string>
+
+</resources>
